@@ -1,0 +1,25 @@
+const String LABEL_APP_NAME = "EmployeeHub";
+const String LABEL_EMPLOYEE_LIST = "Employee List";
+const String LABEL_NO_EMPLOYEES_RECORDS = "No employee records found";
+const String LABEL_ADD_EDIT_EMPLOYEE_DETAILS = "Add Employee Details";
+const String LABEL_EDIT_EMPLOYEE_DETAILS = "Edit Employee Details";
+const String LABEL_EMPLOYEE_NAME = "Employee name";
+const String LABEL_SELECT_ROLE = "Select role";
+const String LABEL_CANCEL = "Cancel";
+const String LABEl_SAVE = "Save";
+const String LABEL_NO_DATE = "No date";
+const String LABEL_TODAY = "Today";
+const String LABEL_NEXT_MONDAY = "Next Monday";
+const String LABEL_NEXT_TUESDAY = "Next Tuesday";
+const String LABEL_AFTER_A_WEEK = "After 1 Week";
+const String EMPTY_EMPLOYEE_NAME = "Please enter employee name.";
+const String INVALID_EMPLOYEE_NAME = "Please enter valid employee name.";
+const String ERROR_SELECT_ROLE = "Please select role.";
+const String ERROR_SELECT_START_DATE = "Please select start date.";
+const String ERROR_SELECT_END_DATE = "Please select end date.";
+const String LABEL_EMPLOYEE_SAVED = "Employee saved successfully!";
+const String LABEL_FORM = "Form ";
+const String LABEL_CURRENT_EMPLOYEES = "Current employees";
+const String LABEL_PREVIOUS_EMPLOYEES = "Previous employees";
+const String LABEL_EMPLOYEE_DATA_HAS_BEEN_REMOVED = "Employee data has been deleted";
+
